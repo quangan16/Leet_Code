@@ -1,0 +1,15 @@
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\LeetCode_C#.csproj.AssemblyReference.cache
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\LeetCode_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\LeetCode_C#.AssemblyInfoInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\LeetCode_C#.AssemblyInfo.cs
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\LeetCode_C#.csproj.CoreCompileInputs.cache
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\bin\Debug\net7.0\LeetCode_C#.exe
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\bin\Debug\net7.0\LeetCode_C#.deps.json
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\bin\Debug\net7.0\LeetCode_C#.runtimeconfig.json
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\bin\Debug\net7.0\LeetCode_C#.dll
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\bin\Debug\net7.0\LeetCode_C#.pdb
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\LeetCode_C#.dll
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\refint\LeetCode_C#.dll
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\LeetCode_C#.pdb
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\LeetCode_C#.genruntimeconfig.cache
+C:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\obj\Debug\net7.0\ref\LeetCode_C#.dll
