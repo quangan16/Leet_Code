@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nqan1\\Documents\\Dev_2023\\Leet_Code\\LeetCode_C#\\LeetCode_C#.csproj",
+      "projectUniqueName": "C:\\Users\\nqan1\\Documents\\Dev_2024\\Dev_Study\\Leet_Code\\LeetCode_C#\\LeetCode_C#.csproj",
       "projectName": "LeetCode_C#",
-      "projectPath": "C:\\Users\\nqan1\\Documents\\Dev_2023\\Leet_Code\\LeetCode_C#\\LeetCode_C#.csproj",
+      "projectPath": "C:\\Users\\nqan1\\Documents\\Dev_2024\\Dev_Study\\Leet_Code\\LeetCode_C#\\LeetCode_C#.csproj",
       "packagesPath": "C:\\Users\\nqan1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nqan1\\Documents\\Dev_2023\\Leet_Code\\LeetCode_C#\\obj\\",
+      "outputPath": "C:\\Users\\nqan1\\Documents\\Dev_2024\\Dev_Study\\Leet_Code\\LeetCode_C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nqan1\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,6 +40,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -56,12 +61,30 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.16, 7.0.16]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201\\RuntimeIdentifierGraph.json"
       }
     }
   }

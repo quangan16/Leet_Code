@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LeetCode_C_
-build_property.ProjectDir = c:\Users\nqan1\Documents\Dev_2023\Leet_Code\LeetCode_C#\
+build_property.ProjectDir = C:\Users\nqan1\Documents\Dev_2024\Dev_Study\Leet_Code\LeetCode_C#\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
